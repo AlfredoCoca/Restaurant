@@ -1,0 +1,242 @@
+body{
+	font-family: Segoe UI;
+	font-size: 14px;
+	color: #515252;
+}
+header{
+	background-color: #fafafa;
+	padding: 10px 0;
+}
+#modern{
+background-image: url("../img/restaurant_post_bg.jpg");
+	padding-top: 90px;
+	
+}
+
+
+
+
+.titulo{
+	text-transform: uppercase;
+	color: #c6b089;
+	font-size: 80px;
+	width: 50%;
+	font-weight: 200;
+	letter-spacing: 15px;
+	
+}
+.subtitulo{
+	color: #353535;
+	font-size: 36px;
+	text-transform: uppercase;
+	font-weight:300;
+	letter-spacing: 5px;
+	
+	
+}
+.relleno{
+	padding-top: 25px;
+	text-align: left;
+	margin-right: 150px;	
+
+}
+.comida{
+	color: #c6b089;
+	font-size: 18px;
+	margin-right: 140px;
+	font-weight: 300;
+	text-align: center;
+	text-transform: uppercase;
+	padding-bottom: 10px;
+}
+#iconos{
+	background-color: #232323;	
+}
+.sectiones{
+	padding-top: 95px;
+	margin-top: 70px;
+}
+
+.numeros{
+	padding-top: 40px;
+	font-weight: bolder;
+	color: #FFFFFF;
+	margin-left: 30px;
+	font-size: 40px;
+}
+#hero{
+	background-image: url(../img/restaurant_title_bg.jpg);
+	background-size: cover;
+	background-repeat: no-repeat;
+	background-position: top center;
+	text-align: center;
+	padding: 10% 0;
+	color: #fff;
+}
+#restaurant{
+	background-image: url("../img/restaurant_blackwood_bg.jpg");
+}
+.logito2{
+	
+	padding-top: 30px;
+	margin-left: 525px;
+}
+.rl2{
+	color: #919191;
+	padding-top: 20px;
+	text-align: center;
+		
+}
+
+#Recipes{
+	background-image: url("../img/restaurant_post_bg.jpg");
+	padding-top: 90px;
+	padding-bottom: 120px;
+}
+#hero h1 {
+	font-size: 100px;
+	font-weight: 300;
+	letter-spacing: 2px;
+	margin-top: 20px;
+	margin-bottom: 30px;
+	text-transform: uppercase;
+}
+#hero h4 {
+	font-size: 30px;
+	font-weight: 300;
+	text-transform: uppercase;
+	letter-spacing: 1px;
+	margin-top: 30px;
+}
+#hero p{
+	color: #fff;
+	font-size: 26px;
+	font-weight: 300;
+	margin-top: 30px;
+}
+
+.bg-verde{
+    background-color: #323232;
+}
+.bg-lima{
+    background-color: #7dc855;
+}
+.bg-verde-oscuro{
+    background-color: #72b529;
+}
+.btn-verde{
+	background-color: #72b529;
+	color: #fff;
+	font-size: 16px;
+	text-transform: uppercase;
+	border: 0;
+	padding: 10px 40px;
+	font-weight: 300;
+	border-radius: 25px;
+}
+.btn-verde:hover{
+	background-color: #000;
+	color: #fff;
+}
+.btn-transparente{
+	background-color: transparent;
+	color: #c6b089;
+	font-size: 16px;
+	text-transform: uppercase;
+	padding: 10px 40px;
+	border: thin solid;
+	font-weight: 300;
+	border-radius: 25px;
+	margin-top: 35px;
+	
+}
+.btn-transparente:hover{
+	background-color: #72b529;
+	color: #fff;
+}
+.btn-transparente2{
+	background-color: transparent;
+	color: #000000;
+	font-size: 16px;
+	text-transform: uppercase;
+	padding: 10px 40px;
+	border: thin solid;
+	font-weight: 300;
+	border-radius: 25px;
+	margin-top: 45px;
+	
+}
+.btn-transparente2:hover{
+	background-color: #72b529;
+	color: #fff;
+}
+.sub2{
+	color: #c6b089;
+	font-weight: 200;
+	text-align: center;
+	text-transform: uppercase;
+}
+.tit2{
+	color: #FFFFFF;
+	font-weight: 200;
+	text-align: center;
+	text-transform: uppercase;
+	font-size: 40px;
+	letter-spacing: 5px;
+	margin-top: 5px;
+}
+.titult{
+	color: #BDBDBD;
+	font-weight: 500;
+	font-size: 20px;
+	padding-top: 20px;
+	text-align: center;
+	width: 50%;
+	margin-left: 70px;
+	text-transform: uppercase;
+	letter-spacing: 2;
+}
+.pics{
+	width: 100px;
+	padding-top: 100px;
+	margin-left: 75px;
+	
+}
+#restaurant{
+	padding-top: 90px;
+	padding-bottom: 120px;
+}
+
+
+
+#columnas article{
+    padding: 60px 20px;
+    color: #fff;
+    text-align: center;
+}
+#columnas .btn-light{
+    background-color: transparent;
+    border-radius: 30px;
+    font-size: 12px;
+    padding: 5px 30px;
+    text-transform: uppercase;
+}
+#columnas .btn-light:hover{
+    background-color: #fff;
+    color: #000;
+}
+
+footer{
+	background-color: #252525;
+	color: #fff;
+	text-align: left;
+	padding: 15px 0;
+	
+}
+.rojo{
+	color: #AB0003;
+}
+footer p{
+	color: #5F5F5F;
+	margin-left: 15px;
+}
